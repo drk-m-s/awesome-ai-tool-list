@@ -131,7 +131,7 @@ Please read the [contribution guidelines](CONTRIBUTING.md) before submitting a p
   - **Tags**: `FreeTrial` `Email`
   - **Pricing**: Paid
  
-- [Autoslide] (https://autoslide.cc/) - AI for PowerPoint
+- [Autoslide](https://autoslide.cc/) - AI for PowerPoint
   - **Tags**: `FreeTrial` `PowerPoint``Office Add In`
   - **Pricing**: Paid
   
